@@ -12,14 +12,13 @@
 
 ## And then I made a Model for the Prediction :
 - Scaled the data
+- Dimensionality reduction using Singular Value Decomposition of the data to project it to a lower dimensional space.
 - Independent and Dependent Features.
 - Did Train-Test split
 
 
 ## Fitted the Model by using :
-- RandomForestRegressor.
-- Improved the accuracy by using Hyperparameter Tuning.
-  - Randomized searchCV
+- Using K-Neighbors Classifier.
+- Plotted the confusion matrix.
+- and Classification report.
 - Plotted the Prediction.
-- Finded the best parameters.
-- Saved the model to pickle.
