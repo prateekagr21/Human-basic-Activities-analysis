@@ -1,4 +1,4 @@
-# Activity Prediction of Humans by Using Machine Learning Algorithms !
+# Activity Prediction of Humans by Using Machine Learning Algorithms !!
 ### _We, as a human do many things in our day today activities ! <br> and can say that we change activities in some period of time._
 
 ## For Solving this Usecase, What I have done is :
