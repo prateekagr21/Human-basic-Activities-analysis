@@ -6,7 +6,7 @@
 - Collected the data and organized to form a meaningful dataset.
 - Checked for null values and observed the data to form meaningful insights.
 - Did Exploratory Data Analysis on the dataset.
-- Visualizations were made by using Matplotlib and Seaborn Libraries.
+- Visualizations were made by using Matplotlib and Seaborn Libraries..
 
 ### Did data Preprocessing.
 
