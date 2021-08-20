@@ -8,7 +8,7 @@
 - Did Exploratory Data Analysis on the dataset.
 - Visualizations were made by using Matplotlib and Seaborn Libraries..
 
-### Did data Preprocessing.
+### Did data Preprocessing...
 
 ## And then I made a Model for the Prediction :
 - Scaled the data
