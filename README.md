@@ -20,5 +20,5 @@
 ## Fitted the Model by using :
 - Using K-Neighbors Classifier.
 - Plotted the confusion matrix.
-- and Classification report.
+- and Classification report.!!
 - Plotted the Prediction.
